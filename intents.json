@@ -1,5 +1,5 @@
 {"intents": [
-        {"tag": "greeting",
+        {"tag": "Greeting",
          "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
          "responses": ["Hello,Welcome to techtycoons", "Hi dude", "Hi there, how can I help?"],
          "context": [""]
